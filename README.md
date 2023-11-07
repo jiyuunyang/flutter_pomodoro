@@ -21,5 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/jiyuunyang/pomodoro/assets/91522788/a685652b-e30d-4acb-8227-929f4ecc6579" width="500" height="100%"/>
 
 ## How to use App
+Just click the button! Then you can use this pomodoro app!
 https://github.com/jiyuunyang/pomodoro/assets/91522788/017bf6e7-4ff4-4531-946e-3534539734ef
 
