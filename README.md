@@ -20,5 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/jiyuunyang/pomodoro/assets/91522788/25518810-f9cd-46d8-a8ea-97982342a78f" width="500" height="100%" />
 <img src="https://github.com/jiyuunyang/pomodoro/assets/91522788/a685652b-e30d-4acb-8227-929f4ecc6579" width="500" height="100%"/>
 
+## How to use App
 https://github.com/jiyuunyang/pomodoro/assets/91522788/017bf6e7-4ff4-4531-946e-3534539734ef
 
