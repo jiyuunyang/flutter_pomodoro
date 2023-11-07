@@ -22,5 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to use App
 Just click the button! Then you can use this pomodoro app!
+
+
 https://github.com/jiyuunyang/pomodoro/assets/91522788/017bf6e7-4ff4-4531-946e-3534539734ef
 
