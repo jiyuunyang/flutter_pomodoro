@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## App Inside
-![Simulator Screen Shot - iPhone 14 - 2023-11-07 at 16 39 25](https://github.com/jiyuunyang/pomodoro/assets/91522788/25518810-f9cd-46d8-a8ea-97982342a78f)
-![Simulator Screen Shot - iPhone 14 - 2023-11-07 at 16 39 28](https://github.com/jiyuunyang/pomodoro/assets/91522788/a685652b-e30d-4acb-8227-929f4ecc6579)
+![Simulator Screen Shot - iPhone 14 - 2023-11-07 at 16 39 25](https://github.com/jiyuunyang/pomodoro/assets/91522788/25518810-f9cd-46d8-a8ea-97982342a78f){: width="100" height="100%"}
+![Simulator Screen Shot - iPhone 14 - 2023-11-07 at 16 39 28](https://github.com/jiyuunyang/pomodoro/assets/91522788/a685652b-e30d-4acb-8227-929f4ecc6579){: width="100" height="100%"}
 
 https://github.com/jiyuunyang/pomodoro/assets/91522788/017bf6e7-4ff4-4531-946e-3534539734ef
 
