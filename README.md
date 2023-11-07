@@ -1,6 +1,6 @@
 # pomodoro
 
-A new Flutter project.
+A new Flutter project. Lectures from Nomad Coder (https://nomadcoders.co/flutter-for-beginners)
 
 ## Getting Started
 
