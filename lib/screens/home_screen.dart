@@ -146,7 +146,9 @@ class _HomeScreenState extends State<HomeScreen> {
                         margin: const EdgeInsets.only(top: 50),
                         decoration: BoxDecoration(
                             color: Theme.of(context).cardColor,
-                            borderRadius: BorderRadius.circular(50)),
+                            borderRadius: const BorderRadius.only(
+                                topRight: Radius.circular(50),
+                                topLeft: Radius.circular(50))),
                         child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
